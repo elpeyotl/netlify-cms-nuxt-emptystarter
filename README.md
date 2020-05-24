@@ -1,12 +1,12 @@
 # netlify-cms-nuxt-emptystarter
-Install all depencies
-Setup a Git repository and push all changes to it
-Connect your repo with netlify
-On Netlify activate Identity
-Activate Identity -> services -> git gateway
-Run yarn dev
-Goto yourlocalhosturl/admin
-Insert your remote netlify url
+Install all depencies<br>
+Setup a Git repository and push all changes to it<br>
+Connect your repo with netlify<br>
+On Netlify activate Identity<br>
+Activate Identity -> services -> git gateway<br>
+Run yarn dev<br>
+Goto yourlocalhosturl/admin<br>
+Insert your remote netlify url<br>
 DONE!
 
 
