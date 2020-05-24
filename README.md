@@ -1,6 +1,14 @@
-# looberg-netlify
+# netlify-cms-nuxt-emptystarter
+Install all depencies
+Setup a Git repository and push all changes to it
+Connect your repo with netlify
+On Netlify activate Identity
+Activate Identity -> services -> git gateway
+Run yarn dev
+Goto yourlocalhosturl/admin
+Insert your remote netlify url
+DONE!
 
-> looberg website
 
 ## Build Setup
 
@@ -20,5 +28,5 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-# looberg-netflify-cms
-# netlify-cms-nuxt-emptystarter
+
+
